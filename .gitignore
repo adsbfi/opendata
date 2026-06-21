@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+.cache/
+air_haifa.xlsx
+air_haifa_settings.json
